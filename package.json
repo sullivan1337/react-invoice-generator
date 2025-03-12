@@ -37,6 +37,6 @@
     "@types/react-datepicker": "^6.2.0",
     "@types/react-dom": "^18.2.23",
     "@types/react-textarea-autosize": "^8.0.0",
-    "prettier": "^3.2.4"
+    "prettier": "^3.2.5"
   }
 }
