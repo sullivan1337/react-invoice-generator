@@ -6,6 +6,7 @@
   "homepage": "https://tuanpham-dev.github.io/react-invoice-generator/",
   "scripts": {
     "dev": "vite",
+    "test": true
     "build": "tsc && vite build",
     "lint": "prettier -c .",
     "lint:write": "prettier -a .",
@@ -18,7 +19,6 @@
     "date-fns": "^3.7.0",
     "file-saver": "^2.1.4",
     "gh-pages": "^6.5.3",
-    "rc-slider": "10.5.0",
     "react": "^19.2.0",
     "react-datepicker": "^6.7.0",
     "react-dom": "^19.2.0",
