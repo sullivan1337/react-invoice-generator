@@ -10,6 +10,7 @@
     "lint": "prettier -a .",
     "lint:write": "prettier -a .",
     "test": true,
+    "test2": true,
     "preview": "vite preview"
   },
   "dependencies": {
