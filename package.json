@@ -21,7 +21,7 @@
     "rc-slider": "10.5.0",
     "react": "^18.2.0",
     "react-datepicker": "^6.7.0",
-    "react-dom": "^17.2.0",
+    "react-dom": "^19.2.0",
     "react-textarea-autosize": "^8.5.1",
     "sass": "^1.73.0",
     "typescript": "^5.4.3",
