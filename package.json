@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "lint": "prettier -c .",
+    "lint": "prettier -a .",
     "lint:write": "prettier -a .",
     "test": true,
     "preview": "vite preview"
